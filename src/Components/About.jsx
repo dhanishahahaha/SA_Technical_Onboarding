@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "cat-shadow.jpg";
+import image from "../images/cat-shadow.jpg";
 
 const imageAltText = "shadow of a cat sitting on the branch of a tree.";
 
