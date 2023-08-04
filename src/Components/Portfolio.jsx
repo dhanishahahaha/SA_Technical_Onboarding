@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "notes-and-laptop.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with notes";
 
 /**
  * Project list
@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "spam and not spam text classifier 🎉",
+    description: "classifies the text weather it is spam or not typed by the user.",
+    url: "https://github.com/dhanishahahaha/spam-not_spam_text_classifier_project",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "movie recommender system",
+    description: "recommends movies to the user based on the selected movie from the list",
+    url: "https://github.com/dhanishahahaha/Movie_recommender_system_project",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "ipl cricket win probability",
+    description: "predicts the winning probability of the teams playing cricket in ipl",
+    url: "https://github.com/dhanishahahaha/IPL_win_probability_project",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "linear regression calories project",
+    description: "predicts the calories burnt by the person based on the user inputs.",
+    url: "https://github.com/dhanishahahaha/linear_regression_project",
   },
 ];
 
